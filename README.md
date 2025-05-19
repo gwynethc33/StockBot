@@ -4,6 +4,6 @@ Stock bot provides real-time stock market data, trends, and alerts. It notifies 
 Search for real-time stock prices using ticker symbols
 Secure API integration (yf)
 
-## tech stack
+## 🎮 Tech stack
 - **Python** (core)
 - **Pandas / NumPy** (data)
